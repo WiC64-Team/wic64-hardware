@@ -1,0 +1,8 @@
+imported gerber files and recreateds schematic in kicad projekt to be able to order it at https://jlcpcb.com/
+
+DBS diode package:
+https://www.snapeda.com/parts/DB107S/Rectron/view-part/?ref=mouser#
+
+c64 user port:
+https://github.com/hackup/HackupNet-KiCad-Libraries
+

@@ -1,0 +1,21 @@
+DBS Bridge Rectifiers D4 was swapped in my order
+JLPCB warned me with sanity checked, so i corrected it per Email
+
+however According to pcb it looks okay didn't find the Issue
+see https://jlcpcb.com/partdetail/HXYMOSFET-DB107S/C5345971
+
+i created a WIC64-CPL.xlsx with swapped D4 for ordering
+
+PARTS left required
+######################
+esp32	https://de.aliexpress.com/item/1005005564949759.html
+oled	https://de.aliexpress.com/item/1005005972670763.html
+taster	https://de.aliexpress.com/item/4000275201465.html
+missing:
+c64 user port connector
+2.54 female headers
+
+
+
+
+
