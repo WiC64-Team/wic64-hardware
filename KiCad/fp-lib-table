@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cbm-connectors")(type "KiCad")(uri "${KICAD_CUSTOM_FOOTPRINT}/cbm-connectors.pretty")(options "")(descr ""))
+)

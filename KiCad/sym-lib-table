@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32_devkit_v1_doit")(type "KiCad")(uri "${KICAD_CUSTOM_SYMBOL}/esp32_devkit_v1_doit.kicad_sym")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "KiCad")(uri "${KICAD_CUSTOM_SYMBOL}/SSD1306-128x64_OLED.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KICAD_CUSTOM_SYMBOL}/ESP8266.kicad_sym")(options "")(descr ""))
+  (lib (name "cbm-connectors")(type "KiCad")(uri "${KICAD_CUSTOM_SYMBOL}/cbm-connectors.kicad_sym")(options "")(descr ""))
+)
