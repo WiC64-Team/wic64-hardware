@@ -1,0 +1,17 @@
+### Module positions - created on Sa 27 Mär 2021 15:41:06 CET ###
+### Printed by Pcbnew version kicad 5.0.2+dfsg1-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                      PosX       PosY       Rot  Side
+C1        220uF              CP_6.3x11mm_hor                           30.1498    14.2494    0.0000  top
+C2        100uF              CP_6.3x11mm_hor                           41.7830    16.1290   90.0000  top
+D1        5V                 LED_D3.0mm                                 5.2070    37.4904  180.0000  top
+D2        9V                 LED_D3.0mm                                 5.2324    42.0370  180.0000  top
+D5        IO2                LED_D3.0mm                                 5.2324    46.5836  180.0000  top
+SW1       RESET-C64          SW_Tactile_SPST_Angled_PTS645Vx58-2LFS    51.1048    17.2212  270.0000  top
+SW2       Function           SW_Tactile_SPST_Angled_PTS645Vx58-2LFS    51.0794    52.5526  270.0000  top
+XBrd1     Conn_01x04_Female  PinSocket_1x04_P2.54mm_Vertical           18.5288    60.8666   90.0000  top
+XU1-1     Conn_01x15_Female  pin_socket_15                             25.2730     7.5438    0.0000  top
+XU1-2     Conn_01x15_Female  pin_socket_15                             25.2476    32.9438    0.0000  top
+XU2       HEADER_4x2         PinSocket_2x04_P2.54mm_Vertical           41.5036    39.6240   90.0000  top
+## End

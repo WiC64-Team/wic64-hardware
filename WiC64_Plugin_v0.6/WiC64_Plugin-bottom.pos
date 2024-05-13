@@ -1,0 +1,45 @@
+### Module positions - created on Sa 27 Mär 2021 15:41:06 CET ###
+### Printed by Pcbnew version kicad 5.0.2+dfsg1-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+D3        1N5819    D_SOD-123                         -35.0266    13.0048  180.0000  bottom
+D4        DB107S    Diode_Bridge_Diotec_SO-DIL-Slim   -16.6624    14.3764  180.0000  bottom
+Q1        BSS138    SOT-23                            -48.9712    25.3746  270.0000  bottom
+Q2        BSS138    SOT-23                            -45.4660    25.3746  270.0000  bottom
+Q3        BSS138    SOT-23                            -41.9608    25.3746  270.0000  bottom
+Q4        BSS138    SOT-23                            -38.4556    25.3746  270.0000  bottom
+Q5        BSS138    SOT-23                            -34.9504    25.3746  270.0000  bottom
+Q6        BSS138    SOT-23                            -31.4452    25.3746  270.0000  bottom
+Q7        BSS138    SOT-23                            -27.9400    25.3746  270.0000  bottom
+Q8        BSS138    SOT-23                            -24.4348    25.3746  270.0000  bottom
+Q9        BSS138    SOT-23                            -20.9296    25.3746  270.0000  bottom
+Q10       BSS138    SOT-23                            -17.4244    25.3746  270.0000  bottom
+Q11       BSS138    SOT-23                            -13.9192    25.3746  270.0000  bottom
+R1        10k       R_0603_1608Metric                 -48.9712    27.8130    0.0000  bottom
+R2        10k       R_0603_1608Metric                 -48.9712    22.9362  180.0000  bottom
+R3        10k       R_0603_1608Metric                 -45.4660    27.8130    0.0000  bottom
+R4        10k       R_0603_1608Metric                 -45.4660    22.9362  180.0000  bottom
+R5        10k       R_0603_1608Metric                 -41.9608    27.8130    0.0000  bottom
+R6        10k       R_0603_1608Metric                 -41.9608    22.9362  180.0000  bottom
+R7        10k       R_0603_1608Metric                 -38.4556    27.8130    0.0000  bottom
+R8        10k       R_0603_1608Metric                 -38.4556    22.9362  180.0000  bottom
+R9        10k       R_0603_1608Metric                 -34.9504    27.8130    0.0000  bottom
+R10       10k       R_0603_1608Metric                 -34.9504    22.9362  180.0000  bottom
+R11       10k       R_0603_1608Metric                 -31.4452    27.8130    0.0000  bottom
+R12       10k       R_0603_1608Metric                 -31.4452    22.9362  180.0000  bottom
+R13       10k       R_0603_1608Metric                 -27.9400    27.8130    0.0000  bottom
+R14       10k       R_0603_1608Metric                 -27.9400    22.9362  180.0000  bottom
+R15       10k       R_0603_1608Metric                 -24.4348    27.8130    0.0000  bottom
+R16       10k       R_0603_1608Metric                 -24.4348    22.9362  180.0000  bottom
+R17       10k       R_0603_1608Metric                 -20.9296    27.8130    0.0000  bottom
+R18       10k       R_0603_1608Metric                 -20.9296    22.9362  180.0000  bottom
+R19       10k       R_0603_1608Metric                 -17.4244    27.8130    0.0000  bottom
+R20       10k       R_0603_1608Metric                 -17.4244    22.9362  180.0000  bottom
+R21       10k       R_0603_1608Metric                 -13.9192    27.8130    0.0000  bottom
+R22       10k       R_0603_1608Metric                 -13.9192    22.9362  180.0000  bottom
+R23       4k7       R_0603_1608Metric                  -7.3914    37.4904   90.0000  bottom
+R24       12k       R_0603_1608Metric                  -7.4422    41.9354   90.0000  bottom
+R25       10k       R_0603_1608Metric                 -48.5648    50.3174  270.0000  bottom
+R26       3k9       R_0603_1608Metric                  -7.4676    46.4820   90.0000  bottom
+## End
